@@ -22,6 +22,8 @@ The inaugural CST Hackathon was held for the first time for invite-only, top 50 
 
 Deployment was done with Microsoft azure, an application we utilized during term 1 courses.
 
+  * [Microsoft Azure](https://azure.microsoft.com/en-ca/)
+
 ## Built With
 
 * [HTML5](https://www.w3schools.com/) - The main markup language 
